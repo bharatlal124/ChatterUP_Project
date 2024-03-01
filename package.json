@@ -20,6 +20,7 @@
   },
   "keywords": [],
   "author": "Bharat",
+  "url": "https://github.com/bharatlal124/ChatterUP_Project",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.3.1",
