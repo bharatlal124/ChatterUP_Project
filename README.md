@@ -112,6 +112,7 @@ The API structure for ChatterUp includes routes for rendering the UI, managing u
 ##Screenshots
 - Home
 <img width="1277" alt="home " src="https://github.com/bharatlal124/ChatterUP_Project/assets/127212425/f2813d79-dad9-4c01-92a8-e6cc472d0b9c">
+
 - Message
 <img width="1236" alt="home 3" src="https://github.com/bharatlal124/ChatterUP_Project/assets/127212425/af88c346-d6ff-422c-846c-dc56f3cf1af5">
 
