@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
 // Database url added in .env
-const baseUrl = process.env.MONGODB || "mongodb://localhost:27017" || "127.0.0.1:27017";
+const baseUrl = process.env.MONGODB || "0.0.0.0:27017";
 // Connect to the database
 export const connectToDatabase = async () => {
   try {
