@@ -1,4 +1,4 @@
-const socket = io.connect("https://chatterup-bharat.onrender.com");
+const socket = io.connect("https://chatterup-bharat.onrender.com/socket.io/socket.io.js");
 // DOM elements
 const myPrompt = document.getElementById("my-prompt");
 const userName = document.getElementById("name");
