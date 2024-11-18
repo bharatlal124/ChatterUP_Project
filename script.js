@@ -1,4 +1,4 @@
-const socket = io.connect("http://localhost:3000");
+const socket = io.connect("https://chatterup-bharat.onrender.com");
 // DOM elements
 const myPrompt = document.getElementById("my-prompt");
 const userName = document.getElementById("name");
